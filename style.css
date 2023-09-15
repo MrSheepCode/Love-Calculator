@@ -1,0 +1,46 @@
+body {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(IMG/hearts.jpg);
+    /* Create the parallax scrolling effect */
+    
+    padding-top:30rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    
+}
+
+#content-box {
+   
+  
+    width: 400px;
+    height: 500px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+
+}
+
+#calculate {
+    width: 150px;
+    height: 50px;
+
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+#result-percentage {
+    font-size: 50px;
+}
+
